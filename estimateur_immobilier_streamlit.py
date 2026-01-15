@@ -286,7 +286,7 @@ def main():
             st.markdown("""
             ### 🎯 Comment utiliser cet outil ?
             
-            1. **Saisissez** le code INSEE de la commune - https://geo.api.gouv.fr/communes  
+            1. **Retrouvez** le code INSEE de la commune - https://geo.api.gouv.fr/communes  
             2. **Renseignez** les caractéristiques du bien
             3. **Choisissez** le standing du bien
             4. **Cliquez** sur "Estimer avec données réelles"
